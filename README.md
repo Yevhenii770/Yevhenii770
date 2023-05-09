@@ -1,7 +1,5 @@
 <h2 align="center">Hi, I'm Yevhenii! 👨‍💻</h2>
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yevhenii770)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yevhenii770&show_icons=true&locale=en&theme=vue-dark" alt="yevhenii" /></p>
 
 
 <h2 align="left">Connect with me:</h2>
