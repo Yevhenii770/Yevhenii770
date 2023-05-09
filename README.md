@@ -26,10 +26,5 @@
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
 </p>
 
-<h2 align="left">I'm interested in:</h2>
-<p align="left">
-  <a href="https://nuxtjs.org/"><img src="https://img.shields.io/badge/nuxt.js-555?logo=nuxtdotjs&style=for-the-badge" alt="nuxt" title="Nuxt" /></a> 
 
-</p>
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
