@@ -1,4 +1,5 @@
 <h2 align="center">Hi, I'm Yevhenii! 👨‍💻</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yevhenii770&show_icons=true&theme=radical)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yevhenii770&show_icons=true&locale=en&theme=vue-dark" alt="yevhenii" /></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Yevhenii770&label=Profile%20views&color=0e75b6&style=flat" alt="yevhenii" /></p>
