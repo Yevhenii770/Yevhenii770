@@ -2,7 +2,6 @@
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yevhenii770&show_icons=true&theme=radical" alt="yevhenii" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?Yevhenii770=anuraghazra&hide_progress=true" alt="yevhenii" /></p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
