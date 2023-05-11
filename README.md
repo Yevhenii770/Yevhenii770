@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Yevhenii! 👨‍💻</h2>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yevhenii770&show_icons=true&theme=radical" alt="yevhenii" /></p>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yevhenii770&theme=react&line_height=40&hide=css" alt="yevhenii" /></p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
