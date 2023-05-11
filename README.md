@@ -1,8 +1,6 @@
 <h2 align="center">Hi, I'm Yevhenii! 👨‍💻</h2>
 
 
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yevhenii770&theme=react&line_height=40&hide=css" alt="yevhenii" /></p>
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/yevhenii-sitolenko/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
