@@ -24,6 +24,7 @@
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
 </p>
 
+<p align="center"><img src="https://www.codewars.com/users/Yevhenii770/badges/large" alt="yevhenii" /></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Yevhenii770&label=Profile%20views&color=0e75b6&style=flat" alt="yevhenii" /></p>
 
 
